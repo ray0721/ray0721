@@ -5,6 +5,23 @@
 Focused on Marketing Analytics, Consumer Intelligence, Business Intelligence, and AI-Driven Business Strategy.
 
 ---
+<p align="left">
+  <a href="https://www.linkedin.com/in/ray-07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://orcid.org/0009-0008-6413-5875">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Md-Rayhan-Hossain-3?ev=hdr_xprf">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+
+  <a href="https://public.tableau.com/app/profile/md.rayhan.hossain3089/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+</p>
 
 ## About Me
 
