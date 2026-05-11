@@ -9,7 +9,9 @@ Focused on Marketing Analytics, Consumer Intelligence, Business Intelligence, an
   <a href="https://www.linkedin.com/in/ray-07/">
     <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+<a href="https://public.tableau.com/app/profile/md.rayhan.hossain3089/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-334155?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
   <a href="https://orcid.org/0009-0008-6413-5875">
     <img src="https://img.shields.io/badge/ORCID-374151?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
@@ -18,9 +20,7 @@ Focused on Marketing Analytics, Consumer Intelligence, Business Intelligence, an
     <img src="https://img.shields.io/badge/ResearchGate-0F172A?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 
-  <a href="https://public.tableau.com/app/profile/md.rayhan.hossain3089/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-334155?style=for-the-badge&logo=tableau&logoColor=white"/>
-  </a>
+
 </p>
 
 ## About Me
