@@ -2,7 +2,7 @@
 
 ### MS Student in Marketing Analytics & Insights | Wright State University
 
-Focused on Marketing Analytics, Consumer Insights, Business Intelligence, and AI-Driven Business Strategy.
+Focused on Marketing Analytics, Consumer Intelligence, Business Intelligence, and AI-Driven Business Strategy.
 
 ---
 
