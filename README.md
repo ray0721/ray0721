@@ -87,7 +87,6 @@ Customer segmentation analysis using transactional retail data and RFM modeling 
 - Explore AI applications in marketing analytics
 - Publish research-oriented analytical work
 - Develop business intelligence dashboards
-- Grow ZenBeta
 
 ---
 
