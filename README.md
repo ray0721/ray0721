@@ -1,6 +1,6 @@
-# Hi, I'm Md Rayhan Hossain 👋
+# Hi, I'm Md Rayhan Hossain 
 
-### MS Student in Marketing Analytics & Insights | Wright State University
+### MS Student in Marketing Analytics & Insights | Wright State University | OH USA
 
 Focused on Marketing Analytics, Consumer Intelligence, Business Intelligence, and AI-Driven Business Strategy.
 
