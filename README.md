@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.git.png" width="100%" alt="GitHub Banner">
 </p>
-Hi, I'm Md Rayhan Hossain 
+<h1 align="left">Hi, I'm Md Rayhan Hossain 👋</h1>
 
 ### MS Student in Marketing Analytics & Insights | Wright State University | OH USA
 
