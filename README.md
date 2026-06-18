@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.git" width="100%" alt="GitHub Banner">
+</p>
 # Hi, I'm Md Rayhan Hossain 
 
 ### MS Student in Marketing Analytics & Insights | Wright State University | OH USA
