@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.git.png" width="100%" alt="GitHub Banner">
+  <img src="banner.git.png" width="100%" alt="GitHub Banner" style="border-radius: 16px;">
 </p>
 <h1 align="left">Hi, I'm Md Rayhan Hossain 👋</h1>
 
